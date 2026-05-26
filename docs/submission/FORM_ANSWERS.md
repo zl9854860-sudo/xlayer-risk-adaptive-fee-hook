@@ -16,27 +16,15 @@ Risk Adaptive Fee Hook is a Uniswap v4 dynamic-fee Hook deployed on X Layer main
 
 ## X (Twitter) Official Handle
 
-Fill after creating the project X account.
-
-Suggested account name:
-
 ```text
-Risk Adaptive Hook
-```
-
-Suggested handle candidates:
-
-```text
-@RiskAdaptiveHook
-@RiskFeeHook
-@AdaptiveHook
+@lizh1813648
 ```
 
 ## X (Twitter) Post Link
 
-Fill after posting the launch thread.
-
-Required: tag `@XLayerOfficial` and use `#BuildX`. Also tag `@Uniswap` and `@flapdotsh`.
+```text
+https://x.com/lizh1813648/status/2059286447186985422?s=20
+```
 
 ## Team Members Telegram Contact
 
