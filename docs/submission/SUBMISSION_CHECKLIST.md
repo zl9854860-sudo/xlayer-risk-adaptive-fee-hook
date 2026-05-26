@@ -8,7 +8,7 @@
 - [x] Verifiable Hook address available.
 - [x] Verifiable pool initialization transaction available.
 - [x] Hook behavior triggered by a real swap.
-- [ ] Public GitHub repository created.
+- [x] Public GitHub repository created.
 - [ ] Dedicated project X account created.
 - [ ] X post published with `@XLayerOfficial`, `@Uniswap`, `@flapdotsh`, and `#BuildX`.
 - [ ] Google Form submitted before `2026-05-28 23:59 UTC`.
