@@ -1,0 +1,18 @@
+{
+  "chainId": "196",
+  "poolActor": "0x165413b290861CA069566a30D0239aD5c9F89156",
+  "approvalAmount": "10000000000000000000000",
+  "addLiquidityAndSwapTxHash": "0x5303a1d0b73d6d3c9835caf2dab994e9c4c1475e9c37b4815440713003497650",
+  "addLiquidityAndSwapStatus": 1,
+  "addLiquidityAndSwapBlock": 61035514,
+  "modifyLiquiditySeen": true,
+  "swapSeen": true,
+  "swapFee": 6500,
+  "swapAmount0": "-1000000000000000000",
+  "swapAmount1": "992513937403189930",
+  "quotedFee": 6500,
+  "tickLower": -600,
+  "tickUpper": 600,
+  "liquidityDelta": "1000000000000000000000",
+  "amountSpecified": "-1000000000000000000"
+}

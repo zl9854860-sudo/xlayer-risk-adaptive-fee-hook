@@ -1,0 +1,12 @@
+{
+  "chainId": "196",
+  "deployer": "0xD670d08c8eE278fB24525f80a0fb82D1815600B8",
+  "hookCreate2Deployer": "0xdC7d10C33847e55073EC4286064f6C4b23f724a0",
+  "riskAdaptiveFeeHook": "0xB31113726d8dCc12B3650Ab00c623e153c37d080",
+  "poolManager": "0x360e68faccca8ca495c1b759fd9eee466db9fb32",
+  "owner": "0xD670d08c8eE278fB24525f80a0fb82D1815600B8",
+  "riskUpdater": "0xD670d08c8eE278fB24525f80a0fb82D1815600B8",
+  "hookPermissionMask": "0x1080",
+  "create2Salt": "0x0000000000000000000000000000000000000000000000000000000000001cb7",
+  "txHash": "0x57abac64b02ce92db9e7bf7d50fbec2acaae6332b46a2973168d82ea301a3469"
+}

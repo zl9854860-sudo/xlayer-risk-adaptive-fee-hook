@@ -1,0 +1,30 @@
+{
+  "chainId": "196",
+  "deployer": "0xD670d08c8eE278fB24525f80a0fb82D1815600B8",
+  "tokens": {
+    "riskMemeDemo": "0xc8EC34cB04fBD429A9817DEc625Ec4d4B9a8f0B3",
+    "xLayerDemoUsd": "0x140aF82a9AE4A51106B88A4e21052f7E0ae91Cb4"
+  },
+  "tokenCodeVerified": {
+    "riskMemeDemo": true,
+    "xLayerDemoUsd": true
+  },
+  "poolKey": {
+    "currency0": "0x140aF82a9AE4A51106B88A4e21052f7E0ae91Cb4",
+    "currency1": "0xc8EC34cB04fBD429A9817DEc625Ec4d4B9a8f0B3",
+    "fee": 8388608,
+    "tickSpacing": 60,
+    "hooks": "0xB31113726d8dCc12B3650Ab00c623e153c37d080"
+  },
+  "poolId": "0x9d21001d22fb3b0532133769302b7a7754e72b771c47dcc4a38bbdc41192a022",
+  "initializeTxHash": "0x9910aae4550f36173bc5d8624988b9c0ad133e5aa1d47d4bf95ea9e4645ecab3",
+  "initializeStatus": 1,
+  "initializeBlock": 61035005,
+  "initializedTick": "0",
+  "riskUpdateTxHash": "0x11c40fb54dd77765572a0730d5488c44ddb6ecddb3c9e67ac7c3f157b3a3ddaa",
+  "riskUpdateStatus": 1,
+  "riskUpdateBlock": 61035011,
+  "riskUpdateSkipped": false,
+  "quotedFee": 6500,
+  "sqrtPriceX96": "79228162514264337593543950336"
+}

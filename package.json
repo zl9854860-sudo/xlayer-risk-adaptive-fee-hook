@@ -1,0 +1,19 @@
+{
+  "name": "xlayer-risk-adaptive-fee-hook",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "compile": "node scripts/compile.mjs",
+    "test": "node --test",
+    "mine:salt": "node scripts/mine-create2-salt.mjs",
+    "deploy:xlayer": "node scripts/deploy-xlayer.mjs",
+    "deploy:pool": "node scripts/create-demo-pool.mjs",
+    "trigger:swap": "node scripts/trigger-demo-swap.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.15.0",
+    "solc": "^0.8.30"
+  }
+}
