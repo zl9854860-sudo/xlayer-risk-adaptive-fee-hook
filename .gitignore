@@ -2,5 +2,6 @@ node_modules/
 artifacts/
 cache/
 deployments/*.log
+docs/submission/demo-video-assets/
 .env
 .DS_Store

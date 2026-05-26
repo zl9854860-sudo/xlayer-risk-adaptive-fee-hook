@@ -46,6 +46,12 @@ Shuzieryi https://x.com/lizh1813648
 https://github.com/zl9854860-sudo/xlayer-risk-adaptive-fee-hook
 ```
 
+## Demo Video
+
+```text
+docs/submission/risk-adaptive-fee-hook-demo.mp4
+```
+
 ## Submission Status
 
 Submitted. Confirmation text: `Your submission has been received. Thanks for shipping in Build X Hackathon. Good luck!`

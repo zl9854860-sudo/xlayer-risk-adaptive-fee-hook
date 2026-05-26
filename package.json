@@ -9,7 +9,8 @@
     "mine:salt": "node scripts/mine-create2-salt.mjs",
     "deploy:xlayer": "node scripts/deploy-xlayer.mjs",
     "deploy:pool": "node scripts/create-demo-pool.mjs",
-    "trigger:swap": "node scripts/trigger-demo-swap.mjs"
+    "trigger:swap": "node scripts/trigger-demo-swap.mjs",
+    "render:demo-video": "node scripts/render-demo-video.mjs"
   },
   "dependencies": {
     "dotenv": "^16.4.7",

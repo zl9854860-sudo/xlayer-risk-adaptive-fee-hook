@@ -2,6 +2,10 @@
 
 Target length: 1-3 minutes.
 
+Rendered file: `docs/submission/risk-adaptive-fee-hook-demo.mp4`
+
+Actual rendered duration: `122.5` seconds.
+
 ## 0:00-0:15 Problem
 
 Meme and newly launched asset pools often move from calm trading into high-risk volatility very quickly. Static pool fees do not respond to that change, so LPs can be underpaid during the exact moments when risk is highest.

@@ -8,6 +8,7 @@
 - [x] Verifiable Hook address available.
 - [x] Verifiable pool initialization transaction available.
 - [x] Hook behavior triggered by a real swap.
+- [x] Demo video recorded as `docs/submission/risk-adaptive-fee-hook-demo.mp4`.
 - [x] Public GitHub repository created.
 - [x] Dedicated project X account created.
 - [x] X post published with `@XLayerOfficial`, `@Uniswap`, `@flapdotsh`, and `#BuildX`.
@@ -22,11 +23,18 @@
 - Risk update tx: `0x11c40fb54dd77765572a0730d5488c44ddb6ecddb3c9e67ac7c3f157b3a3ddaa`
 - Real swap tx: `0x5303a1d0b73d6d3c9835caf2dab994e9c4c1475e9c37b4815440713003497650`
 
+## Demo Video
+
+- File: `docs/submission/risk-adaptive-fee-hook-demo.mp4`
+- Duration: `122.5` seconds
+- Format: `1920x1080` H.264 MP4 with AAC narration
+
 ## Files To Review Before Publishing
 
 - `README.md`
 - `docs/submission/FORM_ANSWERS.md`
 - `docs/submission/DEMO_VIDEO_SCRIPT.md`
+- `docs/submission/risk-adaptive-fee-hook-demo.mp4`
 - `docs/submission/X_POST_DRAFTS.md`
 - `deployments/196.json`
 - `deployments/196-pool.json`
