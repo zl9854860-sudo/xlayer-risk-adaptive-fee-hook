@@ -4,7 +4,9 @@ Use this file to fill the official `[Build X- Hook the future] Hackathon Project
 
 ## Email
 
-Fill with your preferred contact email.
+```text
+zl9854860@gmail.com
+```
 
 ## Project Name
 
@@ -28,33 +30,25 @@ https://x.com/lizh1813648/status/2059286447186985422?s=20
 
 ## Team Members Telegram Contact
 
-Fill with your Telegram handle.
-
-Template:
-
 ```text
-Shuzieryi @your_telegram_handle
+Shuzieryi https://t.me/cz02828
 ```
 
 ## Team Members X (Twitter) Contact
 
-Fill with your X account.
-
-Template:
-
 ```text
-Shuzieryi https://x.com/your_handle
+Shuzieryi https://x.com/lizh1813648
 ```
 
 ## GitHub Repository Link
 
-Fill after pushing this repository publicly.
-
-Template:
-
 ```text
 https://github.com/zl9854860-sudo/xlayer-risk-adaptive-fee-hook
 ```
+
+## Submission Status
+
+Submitted. Confirmation text: `Your submission has been received. Thanks for shipping in Build X Hackathon. Good luck!`
 
 ## Any Other Words To X Layer Team
 

@@ -11,7 +11,7 @@
 - [x] Public GitHub repository created.
 - [x] Dedicated project X account created.
 - [x] X post published with `@XLayerOfficial`, `@Uniswap`, `@flapdotsh`, and `#BuildX`.
-- [ ] Google Form submitted before `2026-05-28 23:59 UTC`.
+- [x] Google Form submitted before `2026-05-28 23:59 UTC`.
 
 ## Chain Proof
 
