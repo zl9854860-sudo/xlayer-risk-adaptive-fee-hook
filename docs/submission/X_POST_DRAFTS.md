@@ -49,6 +49,22 @@ https://www.okx.com/web3/explorer/xlayer/tx/0x5303a1d0b73d6d3c9835caf2dab994e9c4
 #BuildX @XLayerOfficial @Uniswap @flapdotsh
 ```
 
+## Final Proof Update
+
+```text
+Risk Adaptive Fee Hook proof update for #BuildX
+
+Real X Layer mainnet swap triggered the Uniswap v4 Hook.
+
+Hook quoted fee: 6500
+PoolManager Swap fee: 6500
+
+Proof tx:
+0x5303a1d0b73d6d3c9835caf2dab994e9c4c1475e9c37b4815440713003497650
+
+Built for @XLayerOfficial @Uniswap @flapdotsh
+```
+
 ## Technical Thread
 
 ```text
