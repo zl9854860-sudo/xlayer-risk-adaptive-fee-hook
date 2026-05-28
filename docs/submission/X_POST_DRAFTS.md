@@ -6,6 +6,18 @@ Submission post: https://x.com/lizh1813648/status/2059286447186985422?s=20
 
 The official submission form requires a live X post link. Keep this post public through judging.
 
+## Profile Setup
+
+- Avatar: `docs/submission/assets/x-profile-avatar.png`
+- Display name: `Risk Adaptive Fee Hook`
+- Bio:
+
+```text
+Uniswap v4 Hook on X Layer that raises LP fees as pool risk increases. Built for #BuildX. Mainnet proof live.
+```
+
+- Website: `https://github.com/zl9854860-sudo/xlayer-risk-adaptive-fee-hook`
+
 ## Main Launch Post
 
 ```text
