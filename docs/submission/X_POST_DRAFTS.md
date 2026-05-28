@@ -1,6 +1,10 @@
-# X Post Drafts
+# X Post
 
-Create a dedicated project X account first. The official submission form requires a live X post link.
+Published account: `@lizh1813648`
+
+Submission post: https://x.com/lizh1813648/status/2059286447186985422?s=20
+
+The official submission form requires a live X post link. Keep this post public through judging.
 
 ## Main Launch Post
 

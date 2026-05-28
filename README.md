@@ -9,7 +9,7 @@ The demo story is simple: meme and newly launched asset pools can stay cheap dur
 - Built around Uniswap v4 Hook callbacks.
 - Uses `afterInitialize` to require a dynamic-fee pool.
 - Uses `beforeSwap` to return an LP fee override.
-- Designed for X Layer testnet deployment through CREATE2 so the hook address carries the required v4 permission bits.
+- Designed for X Layer deployment through CREATE2 so the hook address carries the required v4 permission bits.
 - Produces verifiable Solidity contracts and a short demo path.
 
 ## Core Mechanism
@@ -48,11 +48,19 @@ The deploy script:
 
 ## Submission Checklist
 
-- Deploy `RiskAdaptiveFeeHook` on X Layer testnet or mainnet.
-- Create at least one Uniswap v4 dynamic-fee pool using the hook address.
-- Submit the verifiable hook and pool addresses.
-- Record a 1-3 minute video showing risk update and before-swap fee quote behavior.
-- Post from a dedicated X account and tag `@XLayerOfficial`, `@Uniswap`, and `@flapdotsh`.
+- [x] Deploy `RiskAdaptiveFeeHook` on X Layer mainnet.
+- [x] Create a Uniswap v4 dynamic-fee pool using the hook address.
+- [x] Submit the verifiable hook and pool addresses.
+- [x] Record a 1-3 minute video showing risk update and before-swap fee quote behavior.
+- [x] Post from a dedicated X account and tag `@XLayerOfficial`, `@Uniswap`, and `@flapdotsh`.
+
+## Submission Status
+
+- GitHub repository: https://github.com/zl9854860-sudo/xlayer-risk-adaptive-fee-hook
+- X account: https://x.com/lizh1813648
+- X submission post: https://x.com/lizh1813648/status/2059286447186985422
+- Demo video: `docs/submission/risk-adaptive-fee-hook-demo.mp4`
+- Google Form status: submitted before `2026-05-28 23:59 UTC`
 
 ## X Layer Mainnet Deployment
 
